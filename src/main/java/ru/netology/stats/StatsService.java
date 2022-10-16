@@ -1,5 +1,5 @@
 package ru.netology.stats;
-//[8, 15, 13, 15, 17, 20, 19, 20, 7, 14, 14, 18]
+
 public class StatsService {
     public long sum(long[] sales) {
         long sum = 0;
